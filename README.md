@@ -36,8 +36,7 @@ Also Contains my docker image for the latest version check it out
 
 
 	docker pull luffy28/ifuzz
-
-        docker run -it luffy28/ifuzz -h
+	docker run -it luffy28/ifuzz -h
 
 
 
