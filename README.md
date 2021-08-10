@@ -33,7 +33,12 @@ Use: python ifuzz.py -u http://fuzz.test.com/ -w ./wordlist.txt
 Also Contains my docker image for the latest version check it out
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-docker pull luffy28/ifuzz
 
-docker run -it luffy28/ifuzz -h
+
+
+	docker pull luffy28/ifuzz
+
+        docker run -it luffy28/ifuzz -h
+
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
