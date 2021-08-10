@@ -1,7 +1,7 @@
 # ifuzz
 This tool is used for fuzzing API, directory fuzzing and sub domains fuzzing...
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 
 
  
@@ -16,7 +16,7 @@ This tool is used for fuzzing API, directory fuzzing and sub domains fuzzing...
 			                  by @luffy27
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 
 
 -h --help for help
@@ -32,7 +32,6 @@ Use: python ifuzz.py -u http://fuzz.test.com/ -w ./wordlist.txt
 
 Also Contains my docker image for the latest version check it out
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 
@@ -41,4 +40,4 @@ Also Contains my docker image for the latest version check it out
         docker run -it luffy28/ifuzz -h
 
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
