@@ -7,7 +7,7 @@ from termcolor import colored
 import sys
 import re
 
-
+cookie=""
 def usage():
     print colored("<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n\n","red")
     print colored(''' 
